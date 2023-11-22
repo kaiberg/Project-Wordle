@@ -230,3 +230,7 @@ h1 {
     transform: translateY(0%);
   }
 }
+
+.error {
+  color: red;
+}
